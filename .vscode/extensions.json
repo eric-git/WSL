@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "mads-hartmann.bash-ide-vscode",
+    "editorconfig.editorconfig",
+    "pkief.material-icon-theme",
+    "ms-vscode.powershell",
+    "esbenp.prettier-vscode",
+    "dotjoshjohnson.xml",
+    "ms-vscode-remote.remote-wsl",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}

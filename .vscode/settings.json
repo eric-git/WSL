@@ -1,0 +1,53 @@
+{
+  "workbench.colorTheme": "Abyss",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.eol": "\n",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.templating": true,
+  "references.preferredLocation": "view",
+  "html.format.indentHandlebars": true,
+  "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": false,
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "css.format.spaceAroundSelectorSeparator": true,
+  "css.format.enable": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "DotJoshJohnson.xml"
+  },
+  "javascript.preferences.quoteStyle": "double",
+  "cSpell.words": [
+    "addext",
+    "Adwaita",
+    "autoclean",
+    "certutil",
+    "genpkey",
+    "gsettings",
+    "journalctl",
+    "libapache",
+    "libavcodec",
+    "libglib",
+    "libnss",
+    "libpci",
+    "lightgray",
+    "Meslo",
+    "montys",
+    "mozillateam",
+    "nssdb",
+    "pciutils",
+    "phpunit",
+    "Propo",
+    "screenfetch",
+    "showcerts",
+    "usiphp",
+    "xrdb",
+    "Xresources"
+  ]
+}
