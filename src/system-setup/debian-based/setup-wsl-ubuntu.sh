@@ -10,6 +10,6 @@ sudo apt-get update
 . "$(dirname "$0")/install-firefox.sh"
 . "$(dirname "$0")/install-oh-my-posh.sh"
 # . "$(dirname "$0")/install-xterm.sh"
-# . "$(dirname "$0")/install-dotnet-sdk.sh"
+. "$(dirname "$0")/install-dotnet-sdk.sh"
 . "$(dirname "$0")/install-powershell.sh"
 . "$(dirname "$0")/upgrade-system.sh"
